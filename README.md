@@ -1,7 +1,7 @@
 
 # Intermediate Machine Learning Course: Housing Price Prediction
 
-This Kaggle course focuses on intermediate-level machine learning skills and applies them to predict housing prices using the dataset from the Housing Prices competition.
+This Kaggle course([Link](https://www.kaggle.com/code/alexisbcook/introduction)) focuses on intermediate-level machine learning skills and applies them to predict housing prices using the dataset from the Housing Prices competition.
 
 ## Machine Learning Techniques Employed
 
