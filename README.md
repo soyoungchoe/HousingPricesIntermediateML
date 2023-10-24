@@ -34,10 +34,7 @@ def score_model(model, X_t=X_train, X_v=X_valid, y_t=y_train, y_v=y_valid):
 
 for i in range(0, len(models)):
     mae = score_model(models[i])
-    print("Model %d MAE: %d" % (i+1, mae))
-```
-    mae = score_model(models[i])
-    print("Model %d MAE: %d" % (i+1, mae))
+    print("Model %d MAE: %d" % (i+1, mae)
 ```
 This approach enabled me to assess the models' performance and identify the model with the lowest mean absolute error, thus improving the accuracy of housing price predictions.
 
