@@ -5,8 +5,8 @@ This Kaggle course([Link](https://www.kaggle.com/learn/intermediate-machine-lear
 
 
 Through these exercises, I learned 5 different topics that accelerate my machine learning expertise. 
-- tackle data types often found in real-world datasets([missing values](https://www.kaggle.com/code/soyoungchoe/exercise-missing-values/edit), [categorical variables](https://www.kaggle.com/code/alexisbcook/categorical-variables))
-- design [pipelines](https://www.kaggle.com/code/alexisbcook/pipelines) to improve the quality of my machine learning code
+- tackle data types often found in real-world datasets([missing values](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%202%20Missing%20Value%20Housing.ipynb)), [categorical variables](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%203%20Categorical%20Variables%20Housing.ipynb))
+- design [pipelines](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%204%20Pipeline%20Housing.ipynb) to improve the quality of my machine learning code
 - use advanced techniques for model validation ([cross-validation](https://www.kaggle.com/code/alexisbcook/cross-validation))
 - build state-of-the-art models that are widely used to win Kaggle competitions ([XGBoost](https://www.kaggle.com/code/alexisbcook/xgboost))
 - avoid common and important data science mistakes ([leakage](https://www.kaggle.com/code/alexisbcook/data-leakage))
