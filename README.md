@@ -4,8 +4,8 @@
 This Kaggle course([Link](https://www.kaggle.com/learn/intermediate-machine-learning)) focuses on intermediate-level machine learning skills and applies them to predict housing prices using the dataset from the Housing Prices competition.
 
 
-In this course, I learned 5 different topics that accelerate my machine learning expertise. 
-- tackle data types often found in real-world datasets([missing values](https://www.kaggle.com/code/alexisbcook/missing-values), [categorical variables](https://www.kaggle.com/code/alexisbcook/categorical-variables))
+Through these exercises, I learned 5 different topics that accelerate my machine learning expertise. 
+- tackle data types often found in real-world datasets([missing values](https://www.kaggle.com/code/soyoungchoe/exercise-missing-values/edit), [categorical variables](https://www.kaggle.com/code/alexisbcook/categorical-variables))
 - design [pipelines](https://www.kaggle.com/code/alexisbcook/pipelines) to improve the quality of my machine learning code
 - use advanced techniques for model validation ([cross-validation](https://www.kaggle.com/code/alexisbcook/cross-validation))
 - build state-of-the-art models that are widely used to win Kaggle competitions ([XGBoost](https://www.kaggle.com/code/alexisbcook/xgboost))
