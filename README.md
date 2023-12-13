@@ -9,7 +9,7 @@ Through these exercises, I learned 5 different topics that accelerate my machine
 - design [pipelines](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%204%20Pipeline%20Housing.ipynb) to improve the quality of my machine learning code
 - use advanced techniques for model validation ([cross-validation](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%205%20Corss-Validation%20Housing.ipynb))
 - build state-of-the-art models that are widely used to win Kaggle competitions ([XGBoost](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%206%20XGBoost%20Housing.ipynb))
-- avoid common and important data science mistakes ([leakage]())
+- avoid common and important data science mistakes ([leakage](https://www.kaggle.com/code/alexisbcook/data-leakage))
 
 
 During this course, I was able to apply my knowledge by completing a hands-on exercise with real-world data for each new topic. The hand-on exercise use data, which has 79 different explanatory variables to predict home prices. 
