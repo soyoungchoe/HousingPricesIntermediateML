@@ -3,6 +3,7 @@
 
 This Kaggle course([Link](https://www.kaggle.com/learn/intermediate-machine-learning)) focuses on intermediate-level machine learning skills and applies them to predict housing prices using the dataset from the Housing Prices competition.
 
+With 79 explanatory variables describing (almost) every aspect of residential homes in Ames, Iowa, this competition challenged me to predict the final price of each home.
 
 Through these exercises, I learned 5 different topics that accelerate my machine learning expertise. 
 - tackle data types often found in real-world datasets([missing values](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%202%20Missing%20Value%20Housing.ipynb), [categorical variables](https://github.com/soyoungchoe/HousingPricesIntermediateML/blob/main/Intermediate%203%20Categorical%20Variables%20Housing.ipynb))
